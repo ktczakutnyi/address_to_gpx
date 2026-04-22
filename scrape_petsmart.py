@@ -31,6 +31,7 @@ TARGET_STATES = {
     "mi": "Michigan",
     "pa": "Pennsylvania",
     "in": "Indiana",
+    "ky": "Kentucky",
     "il": "Illinois",   # covers Chicago
 }
 
